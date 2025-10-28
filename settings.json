@@ -4,5 +4,6 @@
     "camera_resolution": "1280x720",
     "photo_mode": "Color",
     "overlay": "None",
-    "subtitle": "Bienvenue sur Photobooth !"
+    "settings_password": "12345",
+    "subtitle": "Modifiez-moi dans setting.json !"
 }
