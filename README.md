@@ -1,5 +1,8 @@
 # Application Photobooth pour windows gratuite 💎
 
+![](https://img.shields.io/badge/Windows-app-blue
+) 
+
 ## Free Photobooth Application - Logiciel de Borne Photo Professionnel
 
 Transformez vos événements avec une application photobooth complète et personnalisable
