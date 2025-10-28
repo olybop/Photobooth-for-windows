@@ -1,4 +1,4 @@
-# Application Photobooth pour windows gratuite
+# Application Photobooth pour windows gratuite 💎
 
 ## Free Photobooth Application - Logiciel de Borne Photo Professionnel
 
@@ -14,15 +14,15 @@ Notre application de photobooth offre une expérience utilisateur intuitive et d
 ## Fonctionnalités
 
 *   **Mode Photo :** Prenez des photos uniques avec une variété de styles graphiques (Couleur, Noir & Blanc, Sépia, etc.).
-*   **Mode Rafale :** Capturez une série de quatre photos qui sont ensuite combinées en une seule image créative. (Version Premium💎)
-*   **Mode Vidéo :** Enregistrez de courtes vidéos d'une minute maximum avec du son pour immortaliser des moments animés. (Version Premium💎)
-*   **Superpositions :** Appliquez des cadres et des superpositions amusantes à vos photos et vidéos. (Version Premium💎)
+*   **Mode Rafale :** Capturez une série de quatre photos qui sont ensuite combinées en une seule image créative. 
+*   **Mode Vidéo :** Enregistrez de courtes vidéos d'une minute maximum avec du son pour immortaliser des moments animés.
+*   **Superpositions :** Appliquez des cadres et des superpositions amusantes à vos photos et vidéos.
 *   **Galerie Média :** Parcourez facilement toutes vos photos et vidéos sauvegardées dans une galerie intégrée.
 *   **Personnalisation Avancée :**
-    *   Modifiez le logo et l'arrière-plan de l'application. (Version Premium💎)
+    *   Modifiez le logo et l'arrière-plan de l'application.
     *   Sélectionnez la caméra à utiliser parmi les périphériques disponibles.
     *   Ajustez la résolution de la caméra et/ou appliquez une rotation de 180°.
-    *   Protégez l'accès aux paramètres avec un mot de passe personnalisable. (Version Premium💎)
+    *   Protégez l'accès aux paramètres avec un mot de passe personnalisable. 
     *   Personnalisez le sous-titre de l'écran d'accueil.
 
 ## Technologies Utilisées
@@ -46,15 +46,15 @@ L'application peut être configurée via le fichier `settings.json`, qui est cr�
 *   `camera_index`: L'index de la caméra à utiliser (commence à 0).
 *   `camera_rotate_180`: `true` pour pivoter la caméra de 180 degrés, sinon `false`.
 *   `camera_resolution`: La résolution de la caméra (ex: "1280x720").
-*   `photo_mode`: Le mode photo par défaut (ex: "Color"). (Version Premium💎)
-*   `overlay`: La superposition par défaut à appliquer. (Version Premium💎)
-*   `settings_password`: Le mot de passe pour accéder à l'écran des paramètres. (Version Premium💎)
+*   `photo_mode`: Le mode photo par défaut (ex: "Color").
+*   `overlay`: La superposition par défaut à appliquer. 
+*   `settings_password`: Le mot de passe pour accéder à l'écran des paramètres.
 *   `subtitle`: Le sous-titre affiché sur l'écran d'accueil.
 
 ## Licence
 
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` for plus de détails.
 
-## Version Premium💎
+## Plus d'informations💎
 
-Découvrez toutes les fonctionnalités de la version Premium💎 est disponible sur le site [Photobooth Windows](https://instantowl.fr/photobooth-windows/)
+Découvrez toutes les fonctionnalités sur le site [Photobooth Windows](https://instantowl.fr/photobooth-windows/)
