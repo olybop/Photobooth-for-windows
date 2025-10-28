@@ -6,7 +6,7 @@ Transformez vos événements avec une application photobooth complète et person
 Application Photobooth est un logiciel de borne photo innovant développé en Python, conçu pour capturer et immortaliser vos moments les plus précieux lors d'événements, mariages, soirées d'entreprise ou animations commerciales.
 Une solution photobooth tout-en-un pour professionnels et particuliers.
 
-Notre application de photobooth offre une expérience utilisateur intuitive et des fonctionnalités avancées qui rivalisent avec les solutions professionnelles du marché. Que vous soyez organisateur d'événements, photographe professionnel ou simplement à la recherche d'une animation originale pour votre fête, ce logiciel open-source répondra à tous vos besoins.
+Notre application de photobooth offre une expérience utilisateur intuitive et des fonctionnalités avancées qui rivalisent avec les solutions professionnelles du marché. Que vous soyez organisateur d'événements, photographe professionnel ou simplement à la recherche d'une animation originale pour votre fête, ce logiciel répondra à tous vos besoins.
 ## Captures d'écran
 
 ![Exemple de l'interface](photobooth-windows.jpg)
@@ -21,9 +21,9 @@ Notre application de photobooth offre une expérience utilisateur intuitive et d
 *   **Personnalisation Avancée :**
     *   Modifiez le logo et l'arrière-plan de l'application. (Version Premium💎)
     *   Sélectionnez la caméra à utiliser parmi les périphériques disponibles.
-    *   Ajustez la résolution de la caméra et appliquez une rotation de 180°.
+    *   Ajustez la résolution de la caméra et/ou appliquez une rotation de 180°.
     *   Protégez l'accès aux paramètres avec un mot de passe personnalisable. (Version Premium💎)
-    *   Personnalisez le sous-titre de l'écran d'accueil. (Version Premium💎)
+    *   Personnalisez le sous-titre de l'écran d'accueil.
 
 ## Technologies Utilisées
 
@@ -48,7 +48,7 @@ L'application peut être configurée via le fichier `settings.json`, qui est cr�
 *   `photo_mode`: Le mode photo par défaut (ex: "Color"). (Version Premium💎)
 *   `overlay`: La superposition par défaut à appliquer. (Version Premium💎)
 *   `settings_password`: Le mot de passe pour accéder à l'écran des paramètres. (Version Premium💎)
-*   `subtitle`: Le sous-titre affiché sur l'écran d'accueil. (Version Premium💎)
+*   `subtitle`: Le sous-titre affiché sur l'écran d'accueil.
 
 ## Licence
 
@@ -56,4 +56,4 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` for plus de détails.
 
 ## Version Premium💎
 
-La version Premium💎 est disponible sur le site [Photobooth Windows](https://instantowl.fr/photobooth-windows/)
+Découvrez toutes les fonctionnalités de la version Premium💎 est disponible sur le site [Photobooth Windows](https://instantowl.fr/photobooth-windows/)
