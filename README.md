@@ -35,7 +35,8 @@ Notre application de photobooth offre une expérience utilisateur intuitive et d
 
 ## Installation
 
-Pour installer et lancer l'application sur Windows, suivez les étapes ci-dessous :
+Pour installer, téléchargez le contenu du repo (photobooth.exe + assets) et lancer l'application sur Windows.
+suivez les étapes ci-dessous :
 Téléchargez la dernière release et lancez photobooth.exe
 
 ## Configuration
