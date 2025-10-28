@@ -57,4 +57,4 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` for plus de détails.
 
 ## Plus d'informations💎
 
-Découvrez toutes les fonctionnalités sur le site [Photobooth Windows](https://instantowl.fr/photobooth-windows/)
+Découvrez toutes les fonctionnalités sur le site [Photobooth Windows](https://www.olybop.fr/photobooth-windows/)
