@@ -9,7 +9,7 @@ Une solution photobooth tout-en-un pour professionnels et particuliers.
 Notre application de photobooth offre une expérience utilisateur intuitive et des fonctionnalités avancées qui rivalisent avec les solutions professionnelles du marché. Que vous soyez organisateur d'événements, photographe professionnel ou simplement à la recherche d'une animation originale pour votre fête, ce logiciel open-source répondra à tous vos besoins.
 ## Captures d'écran
 
-![Exemple de l'interface](Screenshot_2.jpg)
+![Exemple de l'interface](photobooth-windows.jpg)
 
 ## Fonctionnalités
 
