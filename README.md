@@ -1,7 +1,7 @@
 # Application Photobooth pour windows gratuite 💎
 
 ![](https://img.shields.io/badge/Windows-app-blue
-) 
+) [![Faire un don](https://img.shields.io/badge/Faire_un_don-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/olybop)
 
 ## Free Photobooth Application - Logiciel de Borne Photo Professionnel
 
@@ -12,7 +12,7 @@ Une solution photobooth tout-en-un pour professionnels et particuliers.
 Notre application de photobooth offre une expérience utilisateur intuitive et des fonctionnalités avancées qui rivalisent avec les solutions professionnelles du marché. Que vous soyez organisateur d'événements, photographe professionnel ou simplement à la recherche d'une animation originale pour votre fête, ce logiciel répondra à tous vos besoins.
 ## Captures d'écran
 
-![Exemple de l'interface](photobooth-windows.jpg)
+![Exemple de l'interface](photobooth-windows.jpg) 
 
 ## Fonctionnalités
 
@@ -61,3 +61,5 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` for plus de détails.
 ## Plus d'informations💎
 
 Découvrez toutes les fonctionnalités sur le site [Photobooth Windows](https://www.olybop.fr/photobooth-windows/)
+
+[![Faire un don](https://img.shields.io/badge/Faire_un_don-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/olybop)
